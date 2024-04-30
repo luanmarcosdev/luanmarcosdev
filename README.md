@@ -1,6 +1,6 @@
 ## Hi there, I'm Luan 😅
 
-- I am mainly learning iOS native development (Swift) at the moment because I want to focus in Mobile Development.
+- I'm an iOS developer.
 - Let's code 🤓
 - :envelope: <a href="mailto:luanmarcosdev@gmail.com" target="_blank">luanmarcosdev@gmail.com</a>
 
