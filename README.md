@@ -1,6 +1,6 @@
 ## Hi there, I'm Luan 😅
 
-- I'm an Full Stack Developer.
+- I'm a Full Stack Developer.
 - Let's code 🤓
 - :envelope: <a href="mailto:luanmarcosdev@gmail.com" target="_blank">luanmarcosdev@gmail.com</a>
 
